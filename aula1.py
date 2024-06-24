@@ -1,6 +1,6 @@
 #Comando print (serve para mostrar o resultado dos comandos informados)
 
-print("Aula1 outubro 2023 TESTE GITHUB123456")
+print("Aula1 outubro 2023 TESTE")
 
 #variaveis
 #TEXTO => STRING(STR)
